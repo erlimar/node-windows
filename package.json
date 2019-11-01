@@ -18,7 +18,9 @@
   "devDependencies": {},
   "main": "lib/node-windows.js",
   "os": [
-    "win32"
+    "linux",
+    "win32",
+    "darwin"
   ],
   "preferGlobal": true,
   "dependencies": {
